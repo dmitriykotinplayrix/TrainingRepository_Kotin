@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Kotin"]
+	path = SubmoduleRepository_Kotin
+	url = git@github.com:kotin-d/SubmoduleRepository_Kotin.git
